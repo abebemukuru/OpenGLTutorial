@@ -450,6 +450,9 @@ int main() {
 		//‚ ‚ ‚ ‚ 
 
 		//aaaa
+
+
+		//aaaa
 		vertexData = {};
 		
 		uboVertex->BuffferSubData(&vertexData);
