@@ -447,7 +447,7 @@ int main() {
 		progTutorial->BindTexture(GL_TEXTURE0, GL_TEXTURE_2D, offscreen->GetTexture());
 
 		/*
-
+		//aaaa
 		vertexData = {};
 		
 		uboVertex->BuffferSubData(&vertexData);
